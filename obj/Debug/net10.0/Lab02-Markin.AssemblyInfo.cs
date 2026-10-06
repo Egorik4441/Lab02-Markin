@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Markin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030da3b768d733a87acceac7dcb6a8981b1f2df3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17654d4b2f99244a2d63f70662d273b99093a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Markin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Markin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
